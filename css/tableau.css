@@ -1,0 +1,76 @@
+body {
+    background-color:white;
+
+}
+
+.common {
+    background-color: darkslategray;
+    border: solid 2px white;
+}
+
+.column {
+    display: inline-block;
+    height: 100%;
+}
+.middlesection {
+    height: 700px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.header {
+   top: 5px;
+   left: 5px;
+   right: 1px;
+   height: 100px;
+
+}
+
+.leftmenu {
+    float: left;
+    width: 49.5%;
+    z-index: 2;
+    height: 400;
+}
+
+.mainbody {
+    width: 95%;
+    margin-left: 3px;
+    height: 1000px;
+}
+
+.rightmenu {
+    float: right;
+    width: 49.5%;
+    height: 400;
+}
+
+.footer {
+    
+    display: fixed; 
+    text-align: center;  
+    margin-top: 5px;
+    margin-bottom: 1000;
+}
+
+.img {
+    z-index: 1;
+}
+
+.align {
+    text-align: center;
+}
+
+a {
+    color: white;
+    font-size: 20px;
+}
+
+div {
+    resize: both;
+    overflow: auto;
+  }
+
+.text {
+    text-align: center;
+}

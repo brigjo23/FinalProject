@@ -1,0 +1,35 @@
+.underline {
+    text-decoration: underline;
+}
+
+.align {
+    text-align: center;
+}
+
+.italics {
+    font: italic;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: yellow
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ol {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkslategray;
+    font-style: italic;
+}
+
+h6 {
+    font-family: 'Times New Roman', Times, serif;
+    color: darkslategray;
+}
+
